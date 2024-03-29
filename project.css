@@ -1,0 +1,13 @@
+h1, h3, h5{
+    font-family: 'Lobster';font-size: 25px;
+}
+p{
+    font-family: 'Lobster';font-size: 28px;
+}
+#map {
+    height: 400px;
+    width: 400px;
+ }
+ h2 {
+    color: #308d46;
+ }
